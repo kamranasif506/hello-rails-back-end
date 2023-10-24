@@ -3,6 +3,11 @@
 # The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
 #
 # Example:
+Message.create(content: "Hello, World!")
+Message.create(content: "Hi there!")
+Message.create(content: "Welcome!")
+Message.create(content: "Greetings!")
+Message.create(content: "Good day!")
 #
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
