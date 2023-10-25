@@ -58,7 +58,7 @@
 
 ## 🚀 Front-end link <a name="Front-end"></a>
 
-- [Front end Link](https://github.com/kamranasif506/hello-rails-front-end.git)
+- [Front end Link](https://github.com/kamranasif506/hello-rails-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
